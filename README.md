@@ -63,7 +63,7 @@ public class NewBehaviourScript : MonoBehaviour
 }
 ```
 ## OUTPUT:
-![](output1.png)
-![](output2.png)
+![](https://github.com/Shrruthilaya-Gangadaran/Rotating-the-Gaming-Object/blob/main/output1.png)
+![](https://github.com/Shrruthilaya-Gangadaran/Rotating-the-Gaming-Object/blob/main/output2.png)
 ## RESULT:
 Thus, the 3D application for rotating the gaming objects in unity is developed successfully.
